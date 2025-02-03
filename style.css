@@ -1,6 +1,6 @@
 html {
   font-family: 'Times New Roman', Times, serif;
-  font-size: 62.5%
+  font-size: 62.5%;
 }
 
 p, ul, ol, dl {
@@ -58,7 +58,7 @@ dt {
 
 div#head-section {
   float: left;
-  width: 48%
+  width: 48%;
 }
 
 figure#main-recipe-photo {
